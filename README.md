@@ -89,14 +89,10 @@ Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudad
    </td>
   </tr>
 </table>
-
-Meu objetivo principal é conquistar minha **primeira oportunidade na área de tecnologia** (seja como estagiária ou desenvolvedora júnior), continuando a lapidar minhas habilidades e participando de equipes onde eu possa aprender, contribuir com soluções criativas e crescer profissionalmente.
+        <p align="center">
+    Meu objetivo principal é conquistar <mark> minha primeira oportunidade na área de tecnologia</mark> (seja como estagiária ou desenvolvedora júnior), continuando a lapidar minhas habilidades e     participando de equipes onde eu possa aprender, contribuir com soluções criativas e crescer profissionalmente.
 <p>
-Vamos trocar ideias ou discutir oportunidades?</p>
-<p align="left">
-<a href="https://www.linkedin.com/in/wylliane-cavalcante/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-<a href="wylliane@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=150&size=40&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Obrigada+por+visitar+meu+perfil" alt="Typing SVG" />
+<p align="center"> 
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OThrbnAxd296NXM3NWYycXVyNmdxcmJqNnE5NjB1dGpoMW01NjRicCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dpSrm4cwUmCeQ/giphy.gif" />
