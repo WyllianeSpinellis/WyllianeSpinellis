@@ -80,6 +80,9 @@ Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudad
 * <a href="https://acrobat.adobe.com/id/urn:aaid:sc:US:a7b85ab1-cf83-4afd-b9a9-5d77a47bc1ad"> Jornada Python - Hashtag </a>
 * <a href="https://acrobat.adobe.com/id/urn:aaid:sc:US:1499bc7e-18fe-47c7-8e58-10006fb10797"> Lovable for Builders - Tera </a>
 
+<p>
+  <img src="/octocat-1787750753734.png" align="right" width="200">    
+</p>
 
 ---
 
