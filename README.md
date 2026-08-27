@@ -75,10 +75,10 @@ Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudad
 <strong>📜 Certificados </strong><br>
 * <a href="https://www.coursera.org/account/accomplishments/verify/RYAMECI8AWYI"> AI for Brainstorming and Planning - Google </a>
 * <a href="https://www.coursera.org/account/accomplishments/verify/0V1WTP61JJ0P"> AI Fundamentals - Google </a>
-* <a href="/Certificado Alura - Arquitetura web com IA.pdf"> Arquitetura web com IA - Alura </a>
-* <a href="/Certificado Google Developer Experts - Antigravity 2.0.pdf"> Google Developer Experts - Antigravity 2.0 </a>
-* <a href="/Certificado Hashtag - JORNADA PYTHON.pdf"> Jornada Python - Hashtag </a>
-* <a href="/Certificado Tera - Lovable for Builders.pdf"> Lovable for Builders - Tera </a>
+* <a href="https://acrobat.adobe.com/id/urn:aaid:sc:US:245deaae-5506-480d-a34e-642aca36a53e"> Arquitetura web com IA - Alura </a>
+* <a href="https://acrobat.adobe.com/id/urn:aaid:sc:US:6652447a-38e5-4de9-8487-41f690ad98fa"> Google Developer Experts - Antigravity 2.0 </a>
+* <a href="https://acrobat.adobe.com/id/urn:aaid:sc:US:a7b85ab1-cf83-4afd-b9a9-5d77a47bc1ad"> Jornada Python - Hashtag </a>
+* <a href="https://acrobat.adobe.com/id/urn:aaid:sc:US:1499bc7e-18fe-47c7-8e58-10006fb10797"> Lovable for Builders - Tera </a>
 
 
 ---
