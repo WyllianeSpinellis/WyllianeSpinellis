@@ -72,18 +72,31 @@ Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudad
 
 ---
 
-<strong>📜 Certificados </strong><br>
-* <a href="https://www.coursera.org/account/accomplishments/verify/RYAMECI8AWYI"> AI for Brainstorming and Planning - Google </a>
-* <a href="https://www.coursera.org/account/accomplishments/verify/0V1WTP61JJ0P"> AI Fundamentals - Google </a>
-* <a href="https://acrobat.adobe.com/id/urn:aaid:sc:US:245deaae-5506-480d-a34e-642aca36a53e"> Arquitetura web com IA - Alura </a>
-* <a href="https://acrobat.adobe.com/id/urn:aaid:sc:US:6652447a-38e5-4de9-8487-41f690ad98fa"> Google Developer Experts - Antigravity 2.0 </a>
-* <a href="https://acrobat.adobe.com/id/urn:aaid:sc:US:a7b85ab1-cf83-4afd-b9a9-5d77a47bc1ad"> Jornada Python - Hashtag </a>
-* <a href="https://acrobat.adobe.com/id/urn:aaid:sc:US:1499bc7e-18fe-47c7-8e58-10006fb10797"> Lovable for Builders - Tera </a>
-
-<p>
-  <img src="/octocat-1787750753734.png" align="right" width="200">    
-</p>
-
----
+<table>
+  <tr>
+    <td width="70%">
+      <h1 align="center">📜 Certificados</h1>
+      <h2 align="center">
+   <a href="https://www.coursera.org/account/accomplishments/verify/RYAMECI8AWYI"> AI for Brainstorming and Planning - Google </a> <br>
+   <a href="https://www.coursera.org/account/accomplishments/verify/0V1WTP61JJ0P"> AI Fundamentals - Google </a> <br>
+   <a href="https://acrobat.adobe.com/id/urn:aaid:sc:US:245deaae-5506-480d-a34e-642aca36a53e"> Arquitetura web com IA - Alura </a> <br>
+   <a href="https://acrobat.adobe.com/id/urn:aaid:sc:US:6652447a-38e5-4de9-8487-41f690ad98fa"> Google Developer Experts - Antigravity 2.0 </a> <br>
+   <a href="https://acrobat.adobe.com/id/urn:aaid:sc:US:a7b85ab1-cf83-4afd-b9a9-5d77a47bc1ad"> Jornada Python - Hashtag </a> <br>
+   <a href="https://acrobat.adobe.com/id/urn:aaid:sc:US:1499bc7e-18fe-47c7-8e58-10006fb10797"> Lovable for Builders - Tera </a>
+<td width="30%" align="center">
+        <img src="https://github.com/user-attachments/assets/77418db7-da76-491f-b286-96f4de926a4f" width="500"">
+</td>
+   </td>
+  </tr>
+</table>
 
 Meu objetivo principal é conquistar minha **primeira oportunidade na área de tecnologia** (seja como estagiária ou desenvolvedora júnior), continuando a lapidar minhas habilidades e participando de equipes onde eu possa aprender, contribuir com soluções criativas e crescer profissionalmente.
+<p>
+Vamos trocar ideias ou discutir oportunidades?</p>
+<p align="left">
+<a href="https://www.linkedin.com/in/wylliane-cavalcante/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="wylliane@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+
