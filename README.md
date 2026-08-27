@@ -63,7 +63,7 @@ Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudad
       <p>
         <i>Este projeto serve como meu laboratório principal para colocar em prática modelagem de dados, APIs e engenharia de software!</i>
       <p align="center">
-  <a href="https://caspipethotel.com/l">Caspi Pet Hotel</a>
+  <a href="https://caspipethotel.com/">Caspi Pet Hotel</a>
 </p>
       </p>
     </td>
