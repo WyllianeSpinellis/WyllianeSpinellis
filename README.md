@@ -75,7 +75,11 @@ Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudad
 <strong>📜 Certificados </strong><br>
 * <a href="https://www.coursera.org/account/accomplishments/verify/RYAMECI8AWYI"> AI for Brainstorming and Planning - Google </a>
 * <a href="https://www.coursera.org/account/accomplishments/verify/0V1WTP61JJ0P"> AI Fundamentals - Google </a>
-* <a href="https://www.coursera.org/account/accomplishments/verify/0V1WTP61JJ0P"> AI Fundamentals - Google </a>
+* <a href="/Certificado Alura - Arquitetura web com IA.pdf"> Arquitetura web com IA - Alura </a>
+* <a href="/Certificado Google Developer Experts - Antigravity 2.0.pdf"> Google Developer Experts - Antigravity 2.0 </a>
+* <a href="/Certificado Hashtag - JORNADA PYTHON.pdf"> Jornada Python - Hashtag </a>
+* <a href="/Certificado Tera - Lovable for Builders.pdf"> Lovable for Builders - Tera </a>
+
 
 ---
 
