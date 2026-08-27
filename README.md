@@ -1,26 +1,82 @@
-# Bem vindo ao meu perfil GitHub 👋
-## Me chamo Wylliane, mas podem me chamar de "Wylli"! :relaxed:
+<h1 align="center"> 👋 Olá! Eu sou Wylliane Cavalcante Spinellis </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Construindo+solu%C3%A7%C3%B5es+com+Python+e+Web;Apaixonada+por+tecnologia+e+aprendizado+cont%C3%ADnuo" alt="Typing SVG" />
+</p>
 
-
-## Estou em aprendizado com essas Ferramentas e Tecnologias
-<div>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
-<img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/>
-</div>
-
-## Contatos:
-<div>
-<a href="https://www.instagram.com/_wylliane/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/wylliane-cavalcante/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Wylliane&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Wylliane&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Wylliane&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+👩‍💻 <strong>Sobre Mim:</strong><br>
+Estou construindo minha trajetória na área de <mark>tecnologia</mark>, estou no 2º período de ADS.<br>
+Tenho grande interesse em <mark>programação</mark>, <mark>desenvolvimento web</mark>,
+<mark>modelagem de banco de dados</mark> e <mark>desenvolvimento de sistemas</mark>.<br>
+Atualmente, estou focada em fortalecer minha base em <mark>lógica de programação</mark>
+e <mark>arquitetura de software</mark>, aplicando na prática o conhecimento acadêmico
+através de projetos próprios.<br>
+Adoro o desafio de transformar ideias em soluções reais, criando aplicações que
+facilitam o dia a dia e trazem eficiência.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Wylliane&icon=10&color=13)](https://visitcount.itsvg.in)
+
+🛠️ <strong> Tecnologias e Ferramentas:</strong><br>
+Aqui estão as ferramentas e tecnologias com as quais tenho trabalhado e estudado ativamente
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Code%3A%3ABlocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white" alt="Code::Blocks" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Banco%20de%20Dados-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Banco de Dados" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Lovable-FF4E7E?style=for-the-badge&logo=heart&logoColor=white" alt="Lovable" />
+</p>
+
+---
+
+📚 <strong> Desenvolvimento acadêmico neste 2º periodo:</strong>
+*   🧠 **Algoritmos e Pensamento Computacional** - **Modelagem de Banco de Dados**
+*   🎨 **Desenvolvimento Front-end para Web** - **Design Profissional**
+
+---
+
+<strong> 🚀 Projeto em Destaque </strong><br>
+<table>
+  <tr>
+    <td>
+      <h3 align="center">🐾 Caspi Pet Hotel</h3> 
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Em%20Constante%20Desenvolvimento-orange?style=flat-square" alt="Status" />
+        <img src="https://img.shields.io/badge/Techs-Python%20%7C%20FastAPI%20%7C%20Web-blue?style=flat-square" alt="Techs" />
+      </p>
+      <p>
+        Um sistema desenvolvido para facilitar o gerenciamento de uma empresa de hospedagem e cuidados para pets. O projeto engloba:
+      </p>
+      <ul>
+        <li>🏨 Controle de Hospedagens e Daycare</li>
+        <li>👤 Cadastro completo de tutores e pets</li>
+        <li>📅 Agenda integrada e controle financeiro (pagamentos)</li>
+        <li>📊 Organização de serviços diários</li>
+      </ul>
+      <p>
+        <i>Este projeto serve como meu laboratório principal para colocar em prática modelagem de dados, APIs e engenharia de software!</i>
+      <p align="center">
+  <a href="https://caspipethotel.com/l">Caspi Pet Hotel</a>
+</p>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<strong>📜 Certificados </strong><br>
+* <a href="https://www.coursera.org/account/accomplishments/verify/RYAMECI8AWYI"> AI for Brainstorming and Planning - Google </a>
+* <a href="https://www.coursera.org/account/accomplishments/verify/0V1WTP61JJ0P"> AI Fundamentals - Google </a>
+* <a href="https://www.coursera.org/account/accomplishments/verify/0V1WTP61JJ0P"> AI Fundamentals - Google </a>
+
+---
+
+Meu objetivo principal é conquistar minha **primeira oportunidade na área de tecnologia** (seja como estagiária ou desenvolvedora júnior), continuando a lapidar minhas habilidades e participando de equipes onde eu possa aprender, contribuir com soluções criativas e crescer profissionalmente.
